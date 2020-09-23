@@ -1,0 +1,5 @@
+ÿdThese are like the "balloon tips" found in Windows XP and 
+occasionally in Windows 2000. They're a bit like tooltips, but 
+these are boxes of information, status, or whatever shown on 
+demand (not mouse hover). One possible use is as a substitute 
+for a message box for information you want to display but don't really need to interrupt the user for.
